@@ -25,7 +25,7 @@ I enjoy architecting REST APIs with **FastAPI**, modeling schemas across **relat
 
 [![Status: Seeking Internships](https://img.shields.io/badge/Status-Seeking%20SDE%20Internships-34D399?style=flat-square&logo=statuspage&logoColor=white)](https://github.com/AnishaASingh)
 [![GitHub](https://img.shields.io/badge/GitHub-AnishaASingh-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/AnishaASingh)
-[![Portfolio](https://img.shields.io/badge/Website-AnishaASingh.github.io-38BDF8?style=flat-square&logo=googlechrome&logoColor=white)](https://anishaasingh.github.io)
+
 
 ---
 
